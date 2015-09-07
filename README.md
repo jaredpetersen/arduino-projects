@@ -3,6 +3,7 @@ All of the exercises from _Arduino Projects Book_, which comes with the Arduino
 Starter Kit (https://www.arduino.cc/en/Main/ArduinoStarterKit).
 
 # Implemented Projects
+* Blink (taken slightly further)
 * Spaceship Interface
 
 # To Do
